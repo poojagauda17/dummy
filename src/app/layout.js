@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Agro",
+  title: "Shree Agro",
   description: "Agro Website",
   icons: {
     // icon: "/favicon.ico", 

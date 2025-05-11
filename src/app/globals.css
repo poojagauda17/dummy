@@ -69,10 +69,7 @@ button{
         padding: 60px 0px;
 
 }
-body{
-          background-color: #f2fef6;
 
-}
 .read-more-button:hover{
   background-color: transparent !important;
   color: var(--primary) !important;
