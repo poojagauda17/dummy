@@ -1,7 +1,7 @@
-// next.config.js
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+// next.config.mjs
+export default {
   output: 'export',
+  images: {
+    unoptimized: true
+  }
 }
-
-export default nextConfig
