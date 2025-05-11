@@ -3,10 +3,10 @@ import React from "react";
 
 export default function AboutSection() {
   return (
-    <section className="py-16 px-6 md:px-16 main-container">
+    <section className="py-16 px-6 md:px-16 main-container ">
       <div className="flex flex-col md:flex-row items-center justify-between gap-10">
         {/* Left Content */}
-        <div className="md:w-1/2 text-left">
+        <div className="md:w-1/2 text-left text-center-only-mobile">
           <h2 className="text-4xl font-bold text-[#007A33]">
             About Shree Agro Chemicals
           </h2>

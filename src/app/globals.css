@@ -96,6 +96,15 @@ body {
   color: var(--foreground);
   font-family: var(--font-family-para);
 }
+@media (max-width: 480px) {
+    .main-container {
+        padding: 30px 15px;
+        gap: 30px;
+    }
+    .text-center-m{
+      text-align: center;
+    }
+}
 @media (max-width: 768px){
   .text-center-only-mobile{
     text-align: center;
