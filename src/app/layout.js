@@ -16,7 +16,7 @@ export const metadata = {
   title: "Shree Agro",
   description: "Agro Website",
   icons: {
-    // icon: "/favicon.ico", 
+    icon: "/logo-favicon.ico", 
   },
 };
 
