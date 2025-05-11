@@ -1,0 +1,78 @@
+.distribution-section {
+  padding: 80px 20px;
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+  
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.distribution-right h1 {
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: #e9d127;
+}
+.distribution-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 125px;
+}
+
+.distribution-left {
+  flex: 1 1 45%;
+  max-width: 500px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.distribution-left img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.distribution-right {
+  flex: 1 1 45%;
+  max-width: 600px;
+}
+
+.distribution-right h2 {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.distribution-right p {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 25px;
+}
+
+.distribution-btn {
+  background-color: #ffd700;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.distribution-btn:hover {
+  background-color: #ffcc00;
+}
+@media (max-width: 768px){
+  .distribution-right{
+    text-align: center;
+  }
+  .distribution-wrapper {
+    text-align: center;
+    gap: 70px;
+  }
+}

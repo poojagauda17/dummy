@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+
+.hero-banner {
+  width: 100%;
+  overflow: hidden;
+  margin-top: -95px;
+  
+  
+}
+.banner-hero-image img{
+  height: auto;
+  width: 100%;
+}
+.hero-banner-img{
+  color: black;
+}
+.hero-slide {
+  padding: 0px 0%;
+  color: white;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero-content h4 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  font-weight: 900;
+  font-family: 'Bebas Neue', sans-serif;
+  line-height: 1.1;
+}
+
+.swiper-pagination-bullets {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.swiper-pagination-bullet {
+  background: white;
+  opacity: 0.4;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+  background: var(--primary) !important;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-slide {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-content h1 {
+    font-size: 32px;
+  }
+
+  .banner-hero-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .banner-hero-image img{
+    margin-top: 0px;
+    margin-top: 0;
+  }
+  .hero-container{
+    height: 100px;
+  }
+}
