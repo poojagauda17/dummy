@@ -184,8 +184,8 @@ export default function HeaderSection({onSupplierSubmit }) {
 
 
             <Link
-              href="/blog"
-              className={isActive("/blog") ? "nav-link active" : "nav-link"}
+              href="/benefit"
+              className={isActive("/benefit") ? "nav-link active" : "nav-link"}
             >
               Benefits
             </Link>
