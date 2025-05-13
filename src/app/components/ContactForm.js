@@ -81,7 +81,7 @@ export default function ContactSection() {
     <section className="contact-main">
       <div className="">
         <h2 className="text-black">We’d love to hear from you!</h2>
-        <h4>Address:</h4>
+        <h4 className="text-black">Address:</h4>
         <p>Naydongari  
 Nandgaon  
 Nashik  
