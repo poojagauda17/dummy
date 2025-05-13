@@ -32,11 +32,12 @@ export default function ProductCard() {
             practices and help maintain a balanced ecosystem in agricultural environments.
           </p>
           <h3 className="text-2xl font-semibold text-gray-800 mb-3">Benefits</h3>
-          <ul className="list-disc list-inside text-gray-700 space-y-2 text-base">
-            <li>Non-toxic to humans and animals</li>
-            <li>Prevents pest resistance</li>
-            <li>Biodegradable and safe for long-term use</li>
-          </ul>
+         <ul className="list-disc list-outside pl-5 text-gray-700 space-y-2 text-base">
+  <li>Non-toxic to humans and animals</li>
+  <li>Prevents pest resistance</li>
+  <li>Biodegradable and safe for long-term use</li>
+</ul>
+
         </div>
       </div>
     </section>

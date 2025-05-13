@@ -33,11 +33,12 @@ export default function ProductCard() {
             prepare the soil to support stronger roots and sustainable agriculture.
           </p>
           <h3 className="text-2xl font-semibold text-gray-800 mb-3">Benefits</h3>
-          <ul className="list-disc list-inside text-gray-700 space-y-2 text-base">
-            <li>Increases water absorption</li>
-            <li>Improves root development</li>
-            <li>Balances soil pH and nutrient levels</li>
-          </ul>
+        <ul className="list-disc list-outside pl-5 text-gray-700 space-y-2 text-base">
+  <li>Increases water absorption</li>
+  <li>Improves root development</li>
+  <li>Balances soil pH and nutrient levels</li>
+</ul>
+
         </div>
       </div>
     </section>

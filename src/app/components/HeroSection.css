@@ -3,7 +3,7 @@
 .hero-banner {
   width: 100%;
   overflow: hidden;
-  margin-top: -95px;
+  margin-top: -250px;
   
   
 }
@@ -54,6 +54,13 @@
     flex-direction: column;
     text-align: center;
   }
+  .hero-banner {
+  width: 100%;
+  overflow: hidden;
+  margin-top: -150px;
+  
+  
+}
 
   .hero-content h1 {
     font-size: 32px;

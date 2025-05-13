@@ -14,20 +14,20 @@ export default function HeroBanner() {
       title: "Welcome to Our Website",
       highlight: "Best Quality Products",
       background: "#f5f5f5",
-      image: "/images/banner-1.webp",
+      image: "/images/ban1.jpg",
     },
-    {
-      title: "Summer Sale",
-      highlight: "Up to 50% OFF",
-      background: "#ffe0b2",
-      image: "/images/banner-2.webp",
-    },
-    {
-      title: "New Arrivals",
-      highlight: "Shop Now",
-      background: "#e1bee7",
-      image: "/images/banner-3.webp",
-    },
+    // {
+    //   title: "Summer Sale",
+    //   highlight: "Up to 50% OFF",
+    //   background: "#ffe0b2",
+    //   image: "/images/banner2.jpg",
+    // },
+    // {
+    //   title: "New Arrivals",
+    //   highlight: "Shop Now",
+    //   background: "#e1bee7",
+    //   image: "/images/banner-3.webp",
+    // },
   
   ];
 

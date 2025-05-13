@@ -69,8 +69,8 @@ export default function FooterSection() {
           <p>
             We are committed to providing our community with accurate and
             trustworthy information. Please contact us directly at{" "}
-            <a href="mailto:testing@gmail.com">testing@gmail.com</a>
-            with any questions about our sales and vendor opportunities.
+            <a className="pr-[5px]" href="mailto:shreeagrochemical1313@gmail.com">shreeagrochemical1313@gmail.com</a>
+             with any questions about our sales and vendor opportunities.
           </p>
           <span className="footer-note">
             <a href="#">Terms of Use</a> <span className="dot">●</span> All

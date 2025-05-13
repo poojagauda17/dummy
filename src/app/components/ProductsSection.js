@@ -72,9 +72,9 @@ export default function CropsWeNourish() {
         ))}
       </div>
 
-      <button className="mt-12 bg-[#80B82D] hover:bg-[#6fa127] text-white font-semibold px-8 py-3 rounded-full transition-all duration-300 cursor-pointer">
+      {/* <button className="mt-12 bg-[#80B82D] hover:bg-[#6fa127] text-white font-semibold px-8 py-3 rounded-full transition-all duration-300 cursor-pointer">
         KNOW MORE
-      </button>
+      </button> */}
     </section>
   );
 }

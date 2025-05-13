@@ -91,7 +91,7 @@ Gat No: 932/1B
 
         <h4>Customer Care:</h4>
         <p>Phone: +91-9834351313</p>
-        <p>Email: testing@gmail.com</p>
+        <p>Email: shreeagrochemical1313@gmail.com</p>
         <div className="oneonn-location">
 <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.0373373015537!2d72.97481257509363!3d19.200189347845422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b91f3ed6f739%3A0x3ff13a8a06d9e58a!2sThane%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1683633192723!5m2!1sen!2sin"

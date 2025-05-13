@@ -46,6 +46,7 @@
   transform: scale(1.02);
 }
 
+
 @media (max-width: 767px) {
   .blog-carousel {
     padding: 50px 10px;
