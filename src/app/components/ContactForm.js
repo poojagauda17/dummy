@@ -80,7 +80,7 @@ export default function ContactSection() {
   return (
     <section className="contact-main">
       <div className="">
-        <h2>We’d love to hear from you!</h2>
+        <h2 className="text-black">We’d love to hear from you!</h2>
         <h4>Address:</h4>
         <p>Naydongari  
 Nandgaon  
@@ -89,7 +89,7 @@ Pin Code: 424109
 Gat No: 932/1B  
 </p>
 
-        <h4>Customer Care:</h4>
+        <h4 className="text-black">Customer Care:</h4>
         <p>Phone: +91-9834351313</p>
         <p>Email: shreeagrochemical1313@gmail.com</p>
         <div className="oneonn-location">

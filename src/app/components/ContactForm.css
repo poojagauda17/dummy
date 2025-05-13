@@ -145,6 +145,7 @@ textarea.input {
   border-radius: 6px;
   height: 54px;
   margin: 12px 0px;
+  color: black;
 }
 .contact-us-fields label {
   position: absolute;

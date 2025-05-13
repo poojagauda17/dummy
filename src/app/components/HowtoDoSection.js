@@ -26,25 +26,25 @@ export default function BiogasProcessSection() {
           
           <div className="space-y-6">
             <div>
-              <h3 className="text-xl font-semibold">Step 1: Raw Material Collection</h3>
+              <h3 className="text-xl font-semibold text-black">Step 1: Raw Material Collection</h3>
               <p className="text-gray-700">
                 We source biodegradable waste from farms (crop residue, animal dung), sugar industries (press mud), and cities (segregated organic municipal waste).
               </p>
             </div>
             <div>
-              <h3 className="text-xl font-semibold">Step 2: Bio-Digestion</h3>
+              <h3 className="text-xl font-semibold text-black">Step 2: Bio-Digestion</h3>
               <p className="text-gray-700">
                 This waste is processed in anaerobic digesters, where natural microbes break it down and generate biogas.
               </p>
             </div>
             <div>
-              <h3 className="text-xl font-semibold">Step 3: Gas Purification</h3>
+              <h3 className="text-xl font-semibold text-black">Step 3: Gas Purification</h3>
               <p className="text-gray-700">
                 The biogas is purified and upgraded into Bio-CNG, removing all impurities to make it ready for commercial use.
               </p>
             </div>
             <div>
-              <h3 className="text-xl font-semibold">Step 4: Fertilizer Production</h3>
+              <h3 className="text-xl font-semibold text-black">Step 4: Fertilizer Production</h3>
               <p className="text-gray-700">
                 The leftover slurry is dried, enriched, and converted into nutrient-rich organic fertilizer—no chemicals, just pure natural goodness.
               </p>

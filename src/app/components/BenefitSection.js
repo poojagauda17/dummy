@@ -43,7 +43,7 @@ export default function FertilizerBenefitsSection() {
             className="bg-gray-50 p-6 rounded-lg shadow-md transition-transform duration-300 hover:-translate-y-2 hover:shadow-xl hover:bg-green-50"
           >
             {benefit.icon}
-            <h3 className="text-xl font-semibold mb-2">{benefit.title}</h3>
+            <h3 className="text-xl text-black font-semibold mb-2">{benefit.title}</h3>
             <p className="text-gray-600 text-sm">{benefit.description}</p>
           </div>
         ))}
