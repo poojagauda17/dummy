@@ -51,8 +51,8 @@ export default function ContactSection() {
     }
 
     emailjs.send(
-      "service_uk6jmm8", // your Service ID
-      "template_4su4ehq", // your Template ID
+      "service_dbz1whf", // your Service ID
+      "template_qtb8h3v", // your Template ID
       {
         from_name: form.name,
         from_email: form.email,
@@ -60,7 +60,7 @@ export default function ContactSection() {
         subject: form.subject,
         message: form.message,
       },
-      "R1y_qs1FM8iTocmAC" // your Public Key
+      "w08QRBOZQ_mzGfpMg" // your Public Key
     ).then(() => {
       toast.success("Thank you! Your message has been sent.");
       setForm({
